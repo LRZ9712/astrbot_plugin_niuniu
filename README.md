@@ -1,3 +1,6 @@
+> 本项目二改自 [zgojin/astrbot_plugin_niuniu](https://github.com/zgojin/astrbot_plugin_niuniu)。
+> 原作者：长安某。本版本新增可爱奶牛风图片卡片回复，游戏核心逻辑与原项目保持一致。
+
 # 牛牛插件使用说明
 
 ## 一、插件简介
