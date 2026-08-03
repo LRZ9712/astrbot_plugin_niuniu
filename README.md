@@ -5,7 +5,8 @@
 > 原项目作者为 **长安某**，本仓库为非官方二次修改版本。
 
 ## 预览
-<img width="580" height="324" alt="image" src="https://github.com/user-attachments/assets/d99cb0b2-943e-4a08-85b0-7df8097693c8" />
+<img width="550" height="327" alt="image" src="https://github.com/user-attachments/assets/e4a75bad-f7ba-42ee-8b6d-c45af1fd19ad" />
+
 
 
 ## 二改说明
