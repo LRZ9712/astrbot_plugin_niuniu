@@ -1,5 +1,35 @@
+# 牛牛插件 · 奶牛卡片二改版
+
+> [!IMPORTANT]
 > 本项目二改自 [zgojin/astrbot_plugin_niuniu](https://github.com/zgojin/astrbot_plugin_niuniu)。
-> 原作者：长安某。本版本新增可爱奶牛风图片卡片回复，游戏核心逻辑与原项目保持一致。
+> 原项目作者为 **长安某**，本仓库为非官方二次修改版本。
+
+## 预览
+<img width="580" height="324" alt="image" src="https://github.com/user-attachments/assets/d99cb0b2-943e-4a08-85b0-7df8097693c8" />
+
+
+## 二改说明
+
+本版本保留原插件的主要玩法与数据逻辑，重点调整消息展示方式：
+
+- 将注册、状态、排行、比划、商城及小游戏等文字回复改为图片卡片。
+- 新增可爱奶牛风视觉样式，包括奶牛头像、牧场配色和排行榜样式。
+- 使用 Pillow 在本地生成图片，不依赖 AstrBot HTML 渲染服务。
+- 支持长文本自动换行和卡片高度自适应。
+- 自动清理临时卡片文件，避免长期运行占用过多磁盘空间。
+- 图片生成失败时仅发送不含游戏数据的安全提示文本。
+
+## 项目信息
+
+- **原项目：** [zgojin/astrbot_plugin_niuniu](https://github.com/zgojin/astrbot_plugin_niuniu)
+- **原作者：** 长安某
+- **二改维护：** [LRZ9712](https://github.com/LRZ9712)
+- **适用框架：** [AstrBot](https://github.com/AstrBotDevs/AstrBot)
+
+> 本二改版本仅用于功能优化与交流学习。原插件玩法、文案及相关权利归原项目作者所有。如原作者对本仓库的发布方式有任何要求，请联系维护者处理。
+
+---
+
 
 # 牛牛插件使用说明
 
