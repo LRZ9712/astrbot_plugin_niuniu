@@ -1,0 +1,3 @@
+pytz
+PyYAML
+Pillow>=10.0
